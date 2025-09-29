@@ -1,13 +1,10 @@
 
-
-
 Software engineer transitioning from a career in law, with practical experience in back-end development, DevOps practices, and cloud-based solutions gained through personal and academic projects. Proficient in Java, Python, and modern web frameworks.
 
 <h2>Skills: </h2>
 
   ![My Skills](https://skillicons.dev/icons?i=java,python,django,aws,git,vue,js)
-
-  
+ 
 <hr>
 
 <div align="center">  
