@@ -14,11 +14,3 @@ Software engineer transitioning from a career in law, with practical experience 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Val-Cantarelli&show_icons=true&count_private=true&hide_border=true&title_color=B253FF&icon_color=B253FF&text_color=c9d1d9&bg_color=0d1117" alt="Val GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val-Cantarelli&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-<div>
-  <h2> Contact info: </h2>
-  <a href="https://www.linkedin.com/in/valdielen-casarin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=devbox&logoColor=white" target="_blank"></a>
-  <a href="mailto:valcanterellic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-
